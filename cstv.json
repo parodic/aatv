@@ -141,13 +141,6 @@
     "changeable":1
     },
 
-
-
-
-
-
-
-
 ///////////////////
     {
       "key": "黑木耳资源",
@@ -216,15 +209,6 @@
     "filterable":1
 },
 {
-    "key":"迅雷吧",
-    "name":"🧲迅雷┃磁力",
-    "type":3,
-    "api":"csp_Xunlei8",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-},
-{
     "key":"Mp4电影",
     "name":"🧲电影┃磁力",
     "type":3,
@@ -247,16 +231,6 @@
     "changeable":1,
     "jar": "https://gitee.com/iitvbox/jar/raw/master/天天开心/ttkx.jar"
     },
-//http://xn--dkw0c.v.nxog.top/nxog/ou1.php?b=欧歌
-    {
-    "key":"热播影视",
-    "name":"💡热播┃影视",
-    "type":3,
-    "api":"csp_TTian",
-    "ext":"http://v.rbotv.cn"
-    },
-
-//弹幕http://xn--dkw0c.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌
     {
     "key":"天天弹幕",
     "name":"💡天天┃弹幕",
@@ -316,29 +290,6 @@
     "changeable":1,
     "jar": "https://gitee.com/iitvbox/jar/raw/master/天天开心/ttkx.jar"
     },
-
-//荷塘茶秀/////////////////////////////////////////////////////////
-    {
-      "key": "py_cctv_少儿",
-      "name": "📺央视┃少儿",
-      "type": 3,
-      "api": "py_cctv_full",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://rihou.vip:88/hccx/py_央视少儿.py",
-    "jar": "https://gitee.com/iitvbox/jar/raw/master/荷塘茶秀/HeChengChaXiu.jar"
-    },
-    {
-    "key": "少儿",
-    "name": "📺少儿┃合集",
-    "type": 3,
-    "api": "csp_Bili",
-    "searchable": 0,"quickSearch": 0,"filterable": 1,
-    "ext":"https://xn--dvc-mf3g9f.v.nxog.top/m/Bilibili/少儿合集.json"
-    },
-////////////////////////////////////////////////////////////////////////////////////////
-
     {
       "key": "csp_xml_ikun",
       "name": "🐔爱坤┃蓝光",
@@ -384,12 +335,6 @@
       ]
     },
 
-
-
-
-
-
-
 {
     "key":"星芽短剧",
     "name":"🕵星芽┃短剧",
@@ -397,26 +342,10 @@
     "api":"csp_AppXY",
     "searchable":1,
     "quickSearch":0,
-    "filterable":0
-    
+    "filterable":0    
 },
-
-
-
-//欧歌
-
-{"key": "演唱会","name": "🅱️演唱会┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://xn--dvc-mf3g9f.v.nxog.top/m/Bilibili/演唱会.json"}, 
-{"key": "戏曲","name": "🅱️戏曲┃合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://xn--dvc-mf3g9f.v.nxog.top/m/Bilibili/戏曲合集.json"},
-{"key": "合集","name": "🅱️合集┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://xn--dvc-mf3g9f.v.nxog.top/m/Bilibili/合集.json"}, 
-{"key": "MV","name": "🅱️歌曲┃哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://xn--dvc-mf3g9f.v.nxog.top/m/Bilibili/歌曲MV.json"},
-
-
-{"key": "学堂","name": "👩‍🏫️学堂┃教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://xn--hdg-mf3g9f.v.nxog.top/m/Bilibili/学堂教育.json"}, 
-{"key": "少儿","name": "👩‍🏫️少儿┃合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://xn--hdg-mf3g9f.v.nxog.top/m/Bilibili/少儿合集.json"},
-{"key": "小学课堂","name": "👩‍🏫️小学┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://xn--hdg-mf3g9f.v.nxog.top/m/Bilibili/小学课堂.json"},
-{"key": "初中课堂","name": "👩‍🏫️初中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://xn--hdg-mf3g9f.v.nxog.top/m/Bilibili/初中课堂.json"},
-{"key": "高中课堂","name": "👩‍🏫️高中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://xn--hdg-mf3g9f.v.nxog.top/m/Bilibili/高中课堂.json"},
-
+{
+  
 {"key":"drpy_js_Alist","name":"网盘 | Alist","type":3,"api":"./libs/js/alist.min.js","ext":"./libs/js/alist.json"},
     {"key": "本地","name": "本地存储","type": 3,"api": "csp_Local","searchable": 0,"changeable": 0},
     {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"changeable": 0,"ext": "./libs/js/alist1.json"},
@@ -435,7 +364,7 @@
     
     {
       "key": "push_agent",
-      "name": "趋势派工具箱",
+      "name": "WebDAV",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
