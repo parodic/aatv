@@ -47,7 +47,6 @@
         "犯罪片",
         "悬疑片",
         "剧情片",
-        "伦理片"
       ],
     "jar": "https://gitee.com/iitvbox/jar/raw/master/%E5%B0%8F%E7%B1%B3/xiaomi.jar"
     }
@@ -276,6 +275,15 @@
      "quickSearch":0,
      "filterable":0    
    },
+    {
+      "key": "push_agent",
+      "name": "🧚‍♀️小雅┃云盘",
+      "type": 3,
+      "api": "csp_Push",
+      "playerType": "1",
+      "searchable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    }
    {
       "key": "Aid",
       "name": "急救知识",
@@ -344,15 +352,6 @@
       "changeable": 0,
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
     },
-    {
-      "key": "push_agent",
-      "name": "🧚‍♀️小雅┃云盘",
-      "type": 3,
-      "api": "csp_Push",
-      "playerType": "1",
-      "searchable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    }
   ],
   "parses": [
     {
