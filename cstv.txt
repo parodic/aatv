@@ -35,21 +35,29 @@
         "爽文短剧",
         "国产剧",
         "国产动漫",
+        "动画电影",
+        "网络电影",
         "动作片",
         "喜剧片",
         "灾难片",
         "爱情片",
         "科幻片",
         "恐怖片",
+        "剧情片",
         "战争片",
+        "港台剧",
+        "日韩剧",
         "欧美剧",
         "惊悚片",
         "犯罪片",
+        "冒险片",
         "悬疑片",
-        "剧情片",
+        "武侠片",
+        "奇幻片",
+        "国产综艺"
       ],
     "jar": "https://gitee.com/iitvbox/jar/raw/master/%E5%B0%8F%E7%B1%B3/xiaomi.jar"
-    }
+    },
     {
     "key":"荐片弹幕",
     "name":"💡荐片┃弹幕",
@@ -62,7 +70,6 @@
     "ext":{"danmu":true},
     "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/danmu.jar"
     },
-
 {
     "key":"南瓜影视",
     "name":"💡南瓜┃影视",
@@ -266,15 +273,17 @@
         "欧美综艺"
       ]
     },
-    {
-     "key":"星芽短剧",
-     "name":"🕵星芽┃短剧",
-     "type":3,
-     "api":"csp_AppXY",
-     "searchable":1,
-     "quickSearch":0,
-     "filterable":0    
-   },
+
+{
+    "key":"星芽短剧",
+    "name":"🕵星芽┃短剧",
+    "type":3,
+    "api":"csp_AppXY",
+    "searchable":1,
+    "quickSearch":0,
+    "filterable":0
+    
+},
     {
       "key": "push_agent",
       "name": "🧚‍♀️小雅┃云盘",
@@ -283,7 +292,7 @@
       "playerType": "1",
       "searchable": 0,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
+    }
   ],
   "parses": [
     {
@@ -714,7 +723,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "https://codeberg.org/akee/yylx/raw/branch/main/tvlive.txt",
+      "url": "https://codeberg.org/akee/yylx/raw/branch/main/live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
