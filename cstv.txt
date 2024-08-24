@@ -58,6 +58,11 @@
       ],
     "jar": "https://gitee.com/iitvbox/jar/raw/master/%E5%B0%8F%E7%B1%B3/xiaomi.jar"
     },
+///////////////////////////////
+//道长
+   
+//欧歌http://xn--dkw0c.v.nxog.top/nxog/ou1.php?b=欧歌
+
     {
     "key":"荐片弹幕",
     "name":"💡荐片┃弹幕",
@@ -70,6 +75,7 @@
     "ext":{"danmu":true},
     "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/danmu.jar"
     },
+
 {
     "key":"南瓜影视",
     "name":"💡南瓜┃影视",
@@ -87,6 +93,15 @@
     "searchable":1,
     "changeable":1
     },
+
+
+
+
+
+
+
+
+///////////////////
     {
       "key": "黑木耳资源",
       "name": "🥑木耳┃蓝光",
@@ -124,6 +139,7 @@
         "喜剧"
       ]
     },
+//磁力欧歌
 {
     "key":"New6v",
     "name":"🧲New6V┃磁力",
@@ -161,6 +177,7 @@
     "quickSearch":1,
     "filterable":1
 },
+//天天开心
     {
     "key":"酷看",
     "name":"🎦酷看┃秒播",
@@ -174,6 +191,9 @@
     "changeable":1,
     "jar": "https://gitee.com/iitvbox/jar/raw/master/天天开心/ttkx.jar"
     },
+//http://xn--dkw0c.v.nxog.top/nxog/ou1.php?b=欧歌
+ 
+//弹幕http://xn--dkw0c.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌
     {
     "key":"天天弹幕",
     "name":"💡天天┃弹幕",
@@ -208,6 +228,8 @@
     "ext":{"danmu":true},
     "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/danmu.jar"
     },
+
+//东辰https://notabug.org/dongchenys/pt/raw/json/dy.json/
     {
       "key": "csp_Kuaikan",
       "name": "🐴快看┃直连",
@@ -218,6 +240,8 @@
       "filterable": 1,
     "jar": "https://gitee.com/iitvbox/jar/raw/master/秒播/dongchen.jar"
     },
+    
+//天天开心http://rihou.vip:55/天天开心//////////////////////////////
     {
     "key":"苹果",
     "name":"🎦苹果┃无广",
@@ -229,6 +253,9 @@
     "changeable":1,
     "jar": "https://gitee.com/iitvbox/jar/raw/master/天天开心/ttkx.jar"
     },
+
+//荷塘茶秀/////////////////////////////////////////////////////////
+ 
     {
       "key": "csp_xml_ikun",
       "name": "🐔爱坤┃蓝光",
@@ -284,6 +311,9 @@
     "filterable":0
     
 },
+
+//欧歌
+
     {
       "key": "push_agent",
       "name": "🧚‍♀️小雅┃云盘",
