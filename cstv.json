@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar",
+  "spider": "./jar/cs.jar",
   "wallpaper": "https://bing.img.run/rand.php",
   "logo": "https://u.cubeupload.com/akee/d666.gif",
   "warningText":"提示:
